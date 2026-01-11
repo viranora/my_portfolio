@@ -1,16 +1,57 @@
-# React + Vite
+# Portfolio | Sema Nur Özyılmaz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for my personal portfolio website. It serves as a centralized hub to showcase my expertise in **Artificial Intelligence**, **Data Science**, and **Technical Project Management**.
 
-Currently, two official plugins are available:
+Designed with a focus on minimalism, performance, and a "dark-mode" developer aesthetic.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo:** https://myportfolio-sema.vercel.app
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Engineered for speed and scalability using modern web technologies:
 
-## Expanding the ESLint configuration
+- **Core:** [React 19](https://react.dev/) (via Vite)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment:** Vercel
+- **Architecture:** Component-based, Single Page Application (SPA)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚡ Key Sections
+
+- **Hero:** Personal branding and value proposition.
+- **Skills:** Categorized technical competencies (AI/ML, Web, Tools).
+- **Projects:** A curated list of high-impact projects (e.g., *Viranora*, *Local RAG*, *Fraud Detection*).
+- **Experience:** Professional timeline highlighting roles in Project Management and AI.
+- **Contact:** Direct access to professional networks (GitHub, Kaggle, LinkedIn).
+
+## 🛠️ Installation & Local Development
+
+To run this project locally on your machine:
+
+1. **Clone the repository**
+   
+   git clone [https://github.com/viranora/portfolio-sema.git](https://github.com/viranora/portfolio-sema.git)
+   cd portfolio-sema
+
+2. **Install dependencies**
+
+  npm install
+
+3. **Start the development server**
+  
+  npm run dev
+
+# 📂 Project Structure
+A modular approach for maintainability:
+
+src/
+├── components/
+│   ├── Hero.jsx        # Landing & Introduction
+│   ├── Skills.jsx      # Interactive Tech Stack Grid
+│   ├── Projects.jsx    # Selected Works Showcase
+│   ├── Experience.jsx  # Professional Timeline
+│   ├── Navbar.jsx      # Navigation & Routing
+│   └── Contact.jsx     # Footer & Social Links
+├── App.jsx             # Main Layout Composition
+└── index.css           # Tailwind Directives & Global Styles
+
+### by sema...
