@@ -1,4 +1,4 @@
-# Portfolio | Sema Nur Özyılmaz
+# Portfolio | Sema Özyılmaz
 
 This repository contains the source code for my personal portfolio website. It serves as a centralized hub to showcase my expertise in **Artificial Intelligence**, **Data Science**, and **Technical Project Management**.
 
