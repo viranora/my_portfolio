@@ -12,7 +12,7 @@ const Hero = () => {
       </p>
       
       <div className="mt-8 flex gap-4">
-        {/* Button yerine <a> etiketi kullandık ve href ile hedef gösterdik */}
+        
         <a 
           href="#projects" 
           className="px-6 py-3 border border-tech-accent text-tech-accent hover:bg-tech-accent hover:text-tech-dark transition duration-300 rounded font-medium"
