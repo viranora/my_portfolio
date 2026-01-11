@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from './components/Navbar'; // Navbar eklendi
+import Navbar from './components/Navbar'; 
 import Hero from './components/Hero';
-import Skills from './components/Skills'; // Skills eklendi (UNUTMA!)
+import Skills from './components/Skills'; 
 import Projects from './components/Projects';
 import Experience from './components/Experience';
 import Contact from './components/Contact';
