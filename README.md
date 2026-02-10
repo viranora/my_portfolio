@@ -54,4 +54,4 @@ src/
 ├── App.jsx             # Main Layout Composition
 └── index.css           # Tailwind Directives & Global Styles
 
-### by sema...
+### by sema
